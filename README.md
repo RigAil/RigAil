@@ -1,19 +1,11 @@
 # Hi, I'm Alina 👋
 
-###  Technical Writer in progress | SQL learner | Clarity-driven thinker
-
-
-##  About me
-
-I’m on my way into IT through technical writing — focusing on clarity, structure, and meaning.
-I enjoy turning complex ideas into simple, intuitive content that people can actually use.
-
-My background in document management and administrative coordination taught me how to work with structured information, support teams, and stay organized in complex environments.
+###  UI designer | xaml learner | Clarity-driven thinker
 
 
 ##  What I’m working on now
 
-*  Learning **SQL** and database fundamentals
+*  Learning **xaml** and UI design
 *  Developing **analytical thinking**
 *  Practicing **technical documentation & UI writing**
 *  Improving **Git & GitHub workflow**
@@ -23,10 +15,9 @@ My background in document management and administrative coordination taught me h
 
 * Documentation & Structured Writing
 * UI Text & Content
-* Document Workflow Systems
 * Analytical Thinking
 * Git / GitHub (beginner)
-* SQL (in progress)
+* xaml (in progress)
 
 
 ##  Background
@@ -36,17 +27,8 @@ My background in document management and administrative coordination taught me h
 *  Strong organization, communication, and responsibility
 
 
-##  Goals
-
-* Grow into a **Junior Technical Writer / IT Specialist**
-* Build a **portfolio of clear and useful documentation**
-* Combine **writing + analytics** into real product value
-
 ##  Projects (coming soon)
 
-*  Documentation examples
 *  UI text samples
-*  SQL practice projects
+*  xaml practice projects
 
-
- Open to opportunities, collaboration, and growth
